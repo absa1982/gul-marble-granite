@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gulmarble-site",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "serve", "-l", "4173", "/Users/abdulsattar/Desktop/GulMarble show room"],
+      "port": 4173
+    }
+  ]
+}
